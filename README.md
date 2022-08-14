@@ -2,9 +2,9 @@ Hello there! I am Aditya (@a-anurag1024), an MS in Physics, currently working to
 
 > I have a small academic blog \( [The Aditya Anurag Blog](https://theadityaanuragblog.wordpress.com "Hosted on wordpress") \) built in the lockdown summer of 2020.
 
-I am here to showcase my journey in building my Data science career from scratch. I am taking advantage of Github in presenting my own projects which I have listed below (currently working on the first one :)):- 
+I am here to showcase my journey in building my Data science career from scratch. I am taking advantage of Github in presenting my own projects which I have listed below :- 
 
--
+- Flipkart Review Scrapping
 
 I will be starting a technical blog soon !!
 
